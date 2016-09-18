@@ -9,6 +9,6 @@ Unsolved Katas shall remain in the root directory.
 ##### Filenames
 Example:
 ```
-<kata-name>.<Language> --> Sum-of-Pairs.js
+<kata-name>-<Kyu>.<Language> --> Sum-of-Pairs-5.js
 ```
 The link to the codewars.com will be commented out in each file.
